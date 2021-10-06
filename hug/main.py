@@ -1,2 +1,1 @@
-print("best")
-
+print("hi moskow")
