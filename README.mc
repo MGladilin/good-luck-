@@ -1,4 +1,3 @@
-anjns
-0okop[-=,kio
-kjo
-[p[ikj
+
+for i in 1,2,3:
+print("goodbay my freind")
